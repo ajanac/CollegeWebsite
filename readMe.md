@@ -1,0 +1,1 @@
+This is a static website created based on the theme my college. I did my Bachelors in Prajyoti College, Kerala, India. To open the website, after cloning the repository go the folder :aJaNa_WP_Assign/demo.html. 
