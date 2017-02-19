@@ -1,0 +1,290 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"> 
+ <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<title>Prajyoti Niketan</title>
+<style type="text/css">
+#wrapper{
+   background:#1D4D6B;
+}  
+#footer{
+	height:130px;
+	}
+#center_footer{
+	background:#000;
+	height: 130px;
+	width: 980px;
+	margin:0 auto;
+	}
+#left_footer,#right_footer {
+	width:450px;
+	padding:20px;
+	float:left;
+	}
+#left_footer b{
+	color:#fff;
+	}
+#left_footer li{
+	float:left;
+	margin:0 20px;
+	}
+#left_footer img{
+	width:60px;
+	height:60px;
+	}
+#right_footer{
+	float:right;
+	}
+#right_footer a{ 
+	color:#aaa;
+	padding:0 10px;
+	line-height: 21px;
+	font-size: 13px;
+	font-weight:bold;
+	}
+#footer span{
+	color:#ccc;
+	font-size: 13px;
+	margin-left: 150px;
+	}
+  
+    
+#container{
+	height: 320px;
+	}
+#center_container{
+	background:#DDD;
+	height:320px;
+	width: 980px;
+	margin: 0 auto;
+	}
+#sidebar{
+	float:left;
+	width:280px;
+	margin:10px;
+	padding-bottom: 10px;
+	background:#EEE;
+
+	}
+#sidebar #title{
+	line-height: 30px;
+	padding: 0 0 0 15px;
+	margin-bottom: 10px;
+	font-size: 16px;
+	font-weight: bold;
+	background: url(images/title.png) repeat-x;
+	}
+#sidebar ul{
+	list-style: none;
+	width:280px;
+	}
+#sidebar li{
+	padding:5px 5px;
+	font-size: 13px;
+	}
+#sidebar a{
+	color:#000;
+	}
+#content{
+	width:670px;
+	height:300px;
+	margin:10px 10px 10px 0;
+	background: #EEE;
+	font-size:14px;
+	float:right;
+	}
+#content h2{
+	padding: 10px 0 10px 20px;
+	}
+#content p{
+	margin:15px;
+	}
+#left_list, #right_list{
+	width:270px;
+	float:left;
+	margin: 10px 10px 20px 50px;
+	}
+#left_list ul, #right_list ul{
+	list-style:url(images/li.png);
+	}
+#left_list a, #right_list a{
+	line-height: 30px; 
+	}
+  
+#header{
+  	background:#074266;
+}
+#center_header{
+	background:#053350;
+	height:100px;
+	margin:auto;
+	width:980px;
+	}
+#left_header{
+   float:left;
+   font-size:40px;
+   line-height: 100px;
+   text-align: center;
+   width:370px;
+}
+#menu{
+	float:right;
+	height: 30px;
+	margin: 42px 0 0;
+	width: 530px;
+	}
+#menu a{
+	color: #EEEEEE;
+	font-size: 15px;
+	font-weight: bold;
+	padding: 8px 12px;
+	}	
+#menu a:hover{
+   background: #1E90FF url(images/hover-menu-items.png) repeat-x;
+}
+#preview{
+	color:#EEEEEE;
+	height: 300px;
+	}
+#center_preview{
+	height:300px;
+	width:980px;
+	margin:0 auto;
+	background: url(image_thumb65.png) repeat;
+	}
+#topic{
+	background: url(images/topic.png) repeat;
+	width:300px;
+	float:left;
+	font-size: 13px;
+	margin:40px 10px 10px 10px;
+	border: 1px solid #444;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	}
+
+#topic h2{
+	width:200px;
+	padding: 10px 0 0 50px; 
+	}
+#topic p{
+	padding: 5px 10px 10px 10px;
+	line-height: 20px;
+	}
+#topic a{
+	color:#FFFFFF;
+	font-weight: bold;
+	}
+ 
+@font-face {
+ font-family:the beautiful ones;
+ src: url(font1/the beautiful ones.eot); /* EOT file for IE */
+}
+
+@font-face {
+ font-family:the beautiful ones;
+ src: url(font1/the beautiful ones.ttf); /* TTF file for CSS3 browsers */
+}
+
+#change{
+ font-family:the beautiful ones;
+ font-size:30px;
+ color:black;
+ 
+ 
+}
+   
+</style>
+</head>
+<body>
+<div id=wrapper>
+
+<div id=header>
+   <div id=center_header >
+   
+      <div id=left_header >
+        <font color="white"> Prajyoti Niketan</font> 	
+      </div><!-- #left_header -->
+
+      <div id=menu >
+         <a href=demo.html>Home</a>
+         <a href=dept.html>Departments</a>
+         <a href=faci.html>Administration</a>
+         <a href=admin.html>Facilities</a>
+         <a href=Contact.html>Contact Us</a>
+      </div><!-- #menu -->
+
+   </div><!-- #center_header -->
+</div> <!-- #header -->
+<br>
+<div id="container">
+<div id="center_container">
+<div id="sidebar">
+<div id="title">College </div>
+	<img src="img1.jpg"width="250" height="250">
+</div> <!-- #sidebar --> 
+			
+<div id="content">
+
+<h2>Welcome to Our Website</h2>
+
+Prajyoti Niketan College, Pudukad was established in 1994. Prajyoti Niketan is an International Centre for Research, Training and Service in Wholistic approach. Prajyoti Niketan is a Registered Christian Charitable Society (Regd.N.806/91).Prajyoti education means empowerment and formation of the whole person Through our unique Holistic approach within Redeeming Love (God); Where science and creativity meet truth, wisdom & excellence for total growth Through social justice, environmental protection and National integration. For at Prajyoti education means formation of the whole person with excellence.<br> Prajyoti Niketan is reckoned among the best Colleges with the highest Ranks in the University of Calicut; but the First Rank in all the Courses offered was a rare honour Prajyoti alone could claim.Students on Management Quota often clawed their way to top notches where together with those on Merit Quota they laid themselves out on an ascending sway. Among them emulation gave way to friendly rivalry and several were set to soar away excellence on mere fractions of a point. 
+   </p>
+</div> <!-- #content --> 
+</div> <!-- #center_conatiner --> 
+</div> <!-- #container --> 
+<div id=preview>
+   <div id=center_preview >
+<br><br><br>   
+<div id="topic">
+<a href=roadmap.html><p id=change>Road map</p></a>
+</div> <!-- #topic -->
+<div id="topic">
+
+
+<a href=profile.html><p id=change>Profile</p> </a>
+
+</div> <!-- #topic -->
+<div id="topic">
+
+<a href=gal.html><p id=change>Images</p> </a>
+ </p>
+</div> <!-- #topic -->
+
+   </div><!-- #center_preview -->
+</div> <!-- #preview -->
+
+
+<div id="footer">
+
+ <div id="center_footer">
+
+   <div id="left_footer"><b>Find Us On</b>
+   <ul>
+     <li> <a href="http://www.youtube.com/watch?v=rgFuvCa0PnE"> <img src=y.jpg  > </a> </li>
+     <li> <a href="<a href="http://www.facebook.com"><img src=face.jpg></a> </li>
+     <li> <a href="http://www.twitter.com">  <img src=tw.png  >  </a> </li>
+     
+     <li> <a href="http://www.rss.com"><img src=r.png  >     </a> </li>
+     </ul>
+   </div> 
+			
+   <div id="right_footer">
+       <a href=demo.html>HOME</a>
+       <a href=dept.html>Departments</a>
+       <a href=admin.html>Administration</a>
+       <a href=faci.html>Facilities</a>
+       <a href=contact.html>CONTACT US</a>
+   </div> 
+   
+   <span>© www.prajyotiniketan.edu.in 2012 </span>
+   
+ </div> 
+</div> 
+ 
+ 
+</div> <!-- #wrapper -->
+</body>
+</html>
+ 
+  

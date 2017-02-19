@@ -1,0 +1,177 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"> 
+ <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<title>Departments</title>
+<style type="text/css">
+
+#header{
+  	background:#074266;
+}
+#center_header{
+	background:#053350;
+	height:100px;
+	margin:auto;
+	width:980px;
+	}
+#left_header{
+   float:left;
+   font-size:40px;
+   line-height: 100px;
+   text-align: center;
+   width:370px;
+}
+#menu{
+	float:right;
+	height: 30px;
+	margin: 42px 0 0;
+	width: 530px;
+	}
+#menu a{
+	color: #EEEEEE;
+	font-size: 15px;
+	font-weight: bold;
+	padding: 8px 12px;
+	}	
+#menu a:hover{
+   background: #1E90FF url(hover-menu-items.png) repeat-x;
+}
+ul.b {list-style-type:square;}
+  h3 {text-decoration:underline}
+@font-face {
+ font-family:the beautiful ones;
+ src: url(font1/the beautiful ones.eot); /* EOT file for IE */
+}
+
+@font-face {
+ font-family:the beautiful ones;
+ src: url(font1/the beautiful ones.ttf); /* TTF file for CSS3 browsers */
+}
+
+#change{
+ font-family:the beautiful ones;
+ font-size:20px;
+ color:black;
+ 
+ 
+}
+h1{text-decoration: underline; text-align:left}
+</style>
+</head>
+<body>
+<div id=header>
+   <div id=center_header >
+   
+      <div id=left_header >
+        <font color="white">Prajyoti Niketan</font>
+      </div><!-- #left_header -->
+
+      <div id=menu >
+         <a href=demo.html>Home</a>
+         <a href=dept.html>Departments</a>
+         <a href=admin.html>Administration</a>
+         <a href=faci.html>Facilities</a>
+         <a href=Contact.html>Contact Us</a>
+      </div><!-- #menu -->
+
+   </div><!-- #center_header -->
+</div> <!-- #header -->
+<br>
+<div id=change>
+<h1>
+Departments
+</h1>    
+</div> 
+<table width="1000" border="0" cellspacing="0" cellpadding="0" bgcolor="#000066" align="center" >
+        <tr> 
+          <td> 
+            <table width="100%" border="0" cellspacing="0" cellpadding="3" bgcolor="#FFE0E0" height=500>
+              <tr> 
+                <td bgcolor="#074266" valign="top" width="50%"> 
+                  <p align="center"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="3" color="#FFFFFF"> Computer Science 
+                   </font></b></p>
+                  <p align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"> 
+                  The Department offers B.Sc Computer Science main (aided) from 1995 and Computer Applications subsidiary from 2000 onwards for both men and women.The B.Sc programme offers Mathematics and Statistics as complementary subjects. The examination pattern includes both internal and external evaluation. Choice based credit cum semester system has been introduced in the academic year 2009-2010.The Computer Science department conducts a UGC Career Oriented add-on Certificate Course in Web Technology since 2007. This is a one year course which can be pursued along with the degree course by students. Students can therefore obtain dual qualifications simultaneously. The course on web technology is open to students of other streams in the college as well as eligible students from outside the college.
+<br>
+<h3 >Faculty</h3>
+<ul class="a">
+  <li>Ms. Ceena Mathews(HOD)</li>
+  <li>Ms. Sonia Sunny(on FDP)</li>
+  <li>Mr. Binu P. Chacko</li>
+  <li>Ms.Remya K Sunny</li>
+  <li>Ms.Deepti M Pisharody</li>
+  <li>Ms. Rincy T.A</li>
+</ul>  
+
+</font></p>
+                </td>
+                <td bgcolor="#FFFFFF" width="50%" valign="top"> 
+                  <p align="center"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="3" color="#074266">English
+                   </font></b></p>
+                  <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">
+                   The Department has been imparting instructions to students both men and women for B. A. English (aided) since 1995. The Bachelor Arts in English offers one optional paper (Translation) in Part III English.
+We have BA English with subsidiaries Journalism and Indian Constitution. The pattern for the University examination is 80 marks for External and 20 marks for internals, for the Non-Semester system. Choice Based Credit cum Semester System has been introduced in the academic year 2009-2010.English studies explores the production and analysis of texts created in English. English Studies is an academic discipline that includes the study of literatures written in the English language (including literatures from the UK, the U.S., Ireland, Canada, Australia, New Zealand, Hong Kong, the Philippines, India, South Africa, and the Middle East, among other areas), English linguistics (including English phonetics, phonology, syntax, morphology, semantics, pragmatics, corpus linguistics, and stylistics), and English sociolinguistics (including discourse analysis of written and spoken texts in the English language, the history of the English language, English language learning and teaching, and the study of World Englishes)
+<br>
+<h3 >Faculty</h3>
+<ul class="a">
+  <li>Dr Sr Sophy P. P.(HOD)</li>
+  <li>Dr Dhanya Menon</li>
+  <li>Ms.Jeetha Johny</li>
+  <li>Dr. Mary Paul</li>
+</ul>
+
+
+
+
+
+</font></p>
+                </td>
+              </tr>
+              <tr> 
+                <td bgcolor="#FFFFFF" valign="top" width="50%"> 
+                  <p align="center"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="3" color="#074266"> 
+                    Psychology</font></b></p>
+                  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">The Department has been imparting instructions to students both men and women for B. Sc. Psychology (aided) since 1995 and M. Sc. Clinical Psychology since 2001.We have B. Sc Psychology with subsidiaries Physiology and Statistics. The pattern for the University examination is 80 marks for External and 20 marks for internals, for the Non-Semester system. Choice Based Credit cum Semester System has been introduced in the academic year 2009-2010.This course familiarizes the student of Psychology with the most essential fundamental 
+Physiological processes underlying psychological events. Psychology is an academic and applied discipline that involves the scientific study of mental functions and behaviors. Psychology has the immediate goal of understanding individuals and groups by both establishing general principles and researching specific cases, and by many accounts it ultimately aims to benefit society. In this field, a professional practitioner or researcher is called a psychologist, and can be classified as a social, behavioral, or cognitive scientist. Psychologists attempt to understand the role of mental functions in individual and social behavior, while also exploring the physiological and neurobiological processes that underlie certain cognitive functions and behaviors.
+<h3 >Faculty</h3>
+<ul class="a">
+  <li>Dr Varghese Paul K(HOD)</li>
+  <li>Dr Monsy Edward</li>
+  <li>Ms. Nice Mary Francis P</li>
+  <li>Milu Maria Anto</li>
+  <li>Sukanya B.Menon</li>
+  <li>Soumya Starlet</li>
+  <li>Jaya A.T</li>
+</ul>
+
+
+</font><br>
+                    <img src="images/shim.gif" width="1" height="1"> 
+                    </p>
+                </td>
+                <td bgcolor="#074266" width="50%" valign="top"> 
+                  <p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="3" color="#FFFFFF"><b> Electronics</b></font></p>
+                  <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">There are two main objectives to the B.Sc Electronics Programme. To produce electronic professionals who can be directly employed or 3 
+start his/her own work as Electronic circuit Designer, Electronics consultant, Testing professional, Service engineer  and even an entrepreneur in electronic industry.To train students to a level where they can readily compete for seats for 
+advanced degree courses like MSc (Electronics) and MBA etc.Candidate of admission to the B.Sc Electronics Programme should have passed 
+the Higher secondary / Technical higher secondary / Vocational Higher 
+secondary examinations of Govt. of Kerala or CBSE or IELE or any other 
+examinations recognized as equivalent there to by the University of Calicut 
+with Mathematics or Computer Science or Computer Applications as one of the 
+optional subjects. Electronics is the branch of physics, engineering and technology dealing with electrical circuits that involve active electrical components such as vacuum tubes, transistors, diodes and integrated circuits, and associated passive interconnection technologies. The nonlinear behaviour of active components and their ability to control electron flows makes amplification of weak signals possible and is usually applied to information and signal processing. Similarly, the ability of electronic devices to act as switches makes digital information processing possible. Interconnection technologies such as circuit boards, electronics packaging technology, and other varied forms of communication infrastructure complete circuit functionality and transform the mixed components into a working system.  
+<h3 >Faculty</h3>
+<ul class="a">
+  <li>Mr.Joseph P.P(HOD)</li>
+  <li>Ms.UmaDevi K.S</li>
+  <li>Mr. Jibish Mathew</li>
+</ul>
+
+
+</font></p>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+ </body>
+</html>
